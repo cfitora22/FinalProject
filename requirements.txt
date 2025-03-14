@@ -1,0 +1,10 @@
+# Core libraries for data handling
+pandas>=1.0
+numpy>=1.19
+
+# Scikit-learn for classification and regression
+scikit-learn>=1.0
+matplotlib>=3.3
+
+# Joblib for model serialization
+joblib>=1.0
